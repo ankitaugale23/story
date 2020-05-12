@@ -1,0 +1,2 @@
+This is chapetr 1 of lerning git.
+Welcome all!
